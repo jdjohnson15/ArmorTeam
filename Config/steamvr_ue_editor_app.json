@@ -5,7 +5,7 @@
 			"app_key": "application.generated.ue.armorteam-11590370.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
-			"action_manifest_path": "A:/Game Dev/Armor Team/Unreal/ArmorTeam/Config/SteamVRBindings/steamvr_manifest.json",
+			"action_manifest_path": "A:/Game Dev/Armor Team/Unreal/ArmorTeamGit/Config/SteamVRBindings/steamvr_manifest.json",
 			"strings":
 			{
 				"en_us":
